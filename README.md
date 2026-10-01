@@ -1,6 +1,6 @@
 # terraform-aws-sample
 
-A small AWS environment in modular Terraform. I wrote it as a public example of
+A small AWS environment in modular Terraform, published as a public example of
 how I structure modules, variables, outputs and environments. My production
 Terraform belongs to my employer, so this repo stands in for it.
 
